@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="log_with_results">Log</string>
+    <string name="input_field">Expression</string>
+    <drawable name="input_line">#000</drawable>
+    <drawable name="calculation_history">#001</drawable>
+
+</resources>
